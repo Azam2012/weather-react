@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-color: transparent;
+  margin: 50px 300px 120px;
+}
+border {
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 2px solid #ad329e;
+  border-radius: 5px;
+  color: #ad329e;
+  background-color: #ad329e;
+}
+input {
+  width: 400px;
+  height: 55px;
+  border: solid rgb(82, 5, 56);
+  background-color: #f6dfeb;
+  border-radius: 3px;
+  font-size: 1.5em;
+}
+button {
+  width: 150px;
+  height: 55px;
+  border: solid rgb(82, 5, 56);
+  background-color: #f6dfeb;
+  border-radius: 3px;
+  font-size: 1.5em;
+}
